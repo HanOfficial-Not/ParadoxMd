@@ -1,18 +1,5 @@
 {
-  "tokens": {
-    "GUGKOF": {
-      "token": "GUGKOF",
-      "role": "Dev",
-      "nomorWa": "6283857148337",
-      "status": "❎ Non Active",
-      "expired": "12/7/2026, 14.41.03",
-      "expiresAt": 1783867263309,
-      "createdBy": 8470654924,
-      "createdAt": 1783780863309,
-      "used": false,
-      "usedAt": null
-    }
-  },
+  "tokens": {},
   "roles": {
     "ceo": [],
     "owner": []
