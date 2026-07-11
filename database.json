@@ -1,5 +1,18 @@
 {
-  "tokens": {},
+  "tokens": {
+    "XSKBIB": {
+      "token": "XSKBIB",
+      "role": "Dev",
+      "nomorWa": "6283857148337",
+      "status": "❎ Non Active",
+      "expired": "5/4/2029, 14.18.55",
+      "expiresAt": 1870093135590,
+      "createdBy": 8470654924,
+      "createdAt": 1783779535590,
+      "used": false,
+      "usedAt": null
+    }
+  },
   "roles": {
     "ceo": [],
     "owner": []
