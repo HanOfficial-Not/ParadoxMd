@@ -11,6 +11,18 @@
       "createdAt": 1783780899256,
       "used": true,
       "usedAt": 1783780915704
+    },
+    "PGPKOW": {
+      "token": "PGPKOW",
+      "role": "Dev",
+      "nomorWa": "6285198621157",
+      "status": "❎ Non Active",
+      "expired": "19/4/2029, 13.41.27",
+      "expiresAt": 1871300487775,
+      "createdBy": 8470654924,
+      "createdAt": 1784986887775,
+      "used": false,
+      "usedAt": null
     }
   },
   "roles": {
