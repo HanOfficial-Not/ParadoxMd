@@ -16,13 +16,13 @@
       "token": "PGPKOW",
       "role": "Dev",
       "nomorWa": "6285198621157",
-      "status": "❎ Non Active",
+      "status": "✅ Aktif",
       "expired": "19/4/2029, 13.41.27",
       "expiresAt": 1871300487775,
       "createdBy": 8470654924,
       "createdAt": 1784986887775,
-      "used": false,
-      "usedAt": null
+      "used": true,
+      "usedAt": 1784988439097
     }
   },
   "roles": {
