@@ -23,6 +23,18 @@
       "createdAt": 1784986887775,
       "used": true,
       "usedAt": 1784988439097
+    },
+    "PGQNKM": {
+      "token": "PGQNKM",
+      "role": "Dev",
+      "nomorWa": "6285198621157",
+      "status": "❎ Non Active",
+      "expired": "29/4/2029, 08.19.54",
+      "expiresAt": 1872145194671,
+      "createdBy": 8470654924,
+      "createdAt": 1785831594671,
+      "used": false,
+      "usedAt": null
     }
   },
   "roles": {
